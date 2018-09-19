@@ -69,7 +69,7 @@ char* add(char *a, char *b)
 	if(carry=='1')
 		{
 			char* one = (char *)malloc(sizeof(char)*(strlen(a)));
-			for (int i = 0; i < strlen(a)-1; ++i)
+			for (i = 0; i < strlen(a)-1; ++i)
 			{
 				one[i]='0';
 			}
@@ -144,7 +144,7 @@ int main(){
 	printf("Sum: %s\n",sum);
 	checksum=complement(sum);
 	printf("Checksum: %s\n", checksum );
-	int flag;
+	int flag=0;
 	for (i = 0; i < strlen(checksum); ++i)
 	{
 		if(checksum[i]!='0'){
