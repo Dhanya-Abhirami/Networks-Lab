@@ -86,7 +86,7 @@ char* append_bits(char *message,char *append_with,int zeros){
 int main(){
     int i;
 	printf("==========CYCLIC REDUNDANCY CHECK==========");
-	printf("\n\t\t\t\t\tS. DHANYA ABHIRAMI\n\t\t\t\t\t16BCE0965\n");
+	printf("\n\t\t\t\t\tS. DHANYA ABHIRAMI\n\n");
     int message_length,divisor_length;
     printf("Enter Message Length: ");
     scanf("%d",&message_length);
