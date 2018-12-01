@@ -7,7 +7,6 @@ main( )
 {
 	printf("==========TIME SERVER==========\n");
 	printf("\t\t\t\t\tS. DHANYA ABHIRAMI\n");
-	printf("\t\t\t\t\t16BCE0965\n");
 	struct sockaddr_in sa;
 	struct sockaddr_in cli;
 	int sockfd,conntfd;
