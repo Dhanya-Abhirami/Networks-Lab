@@ -3,7 +3,7 @@
 int main()
 {
 	printf("==========SELECTIVE REPEAT ARQ ==========");
-	printf("\n\t\t\tS. DHANYA ABHIRAMI\n\t\t\t16BCE0965\n");
+	printf("\n\t\t\tS. DHANYA ABHIRAMI\n\n");
 	int noframes,windowsize,sent=0,nak,m,i,j=0;
 	printf("Enter number of frames: ");
 	scanf("%d",&noframes);
