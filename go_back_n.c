@@ -3,7 +3,7 @@
 int main()
 {
 	printf("==========GO BACK N ARQ ==========");
-	printf("\n\t\t\tS. DHANYA ABHIRAMI\n\t\t\t16BCE0965\n");
+	printf("\n\t\t\tS. DHANYA ABHIRAMI\n\n");
 	int noframes,windowsize,sent=0,ack,m,i,j=0;
 	printf("Enter number of frames: ");
 	scanf("%d",&noframes);
