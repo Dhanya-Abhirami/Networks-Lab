@@ -5,7 +5,6 @@ main()
 {
 	printf("==========TIME CLIENT==========\n");
 	printf("\t\t\t\t\tS. DHANYA ABHIRAMI\n");
-	printf("\t\t\t\t\t16BCE0965\n");
 	struct sockaddr_in sa,cli;
 	int n,sockfd;
 	int len;
