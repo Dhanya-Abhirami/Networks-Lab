@@ -4,7 +4,6 @@ int main()
 {
 	printf("==========ISP SUBNET ALLOCATION==========\n");
 	printf("\t\t\t\t\tS. DHANYA ABHIRAMI\n");
-	printf("\t\t\t\t\t16BCE0965\n");
 	int i,subnets;
 	int ip1,ip2,ip3,ip4;
 	// Network Address
