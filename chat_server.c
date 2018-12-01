@@ -32,7 +32,6 @@ int main()
 {
 	printf("==========CHAT SERVER==========\n");
 	printf("\t\t\t\t\tS. DHANYA ABHIRAMI\n");
-	printf("\t\t\t\t\t16BCE0965\n");
 	int sockfd,connfd,len;
 	struct sockaddr_in servaddr,cli;
 	sockfd=socket(AF_INET,SOCK_STREAM,0);
