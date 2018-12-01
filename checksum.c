@@ -94,7 +94,7 @@ char* append_bits(char *message,char *checksum){
 
 int main(){
 	printf("==========CHECKSUM==========");
-	printf("\n\t\t\tS. DHANYA ABHIRAMI\n\t\t\t16BCE0965\n");
+	printf("\n\t\t\tS. DHANYA ABHIRAMI\n\n");
 	int n,k,i,j;
 	printf("Enter number of bits in message: ");
 	scanf("%d",&n);
