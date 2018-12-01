@@ -6,7 +6,7 @@
 void main()
 {
 	printf("==========STOP AND WAIT ARQ ==========");
-	printf("\n\t\t\tS. DHANYA ABHIRAMI\n\t\t\t16BCE0965\n");
+	printf("\n\t\t\tS. DHANYA ABHIRAMI\n\n");
 	int seed = time(NULL);
 	srand(seed);
 	int i=0,window_size,noframes,frame_no,ack_no,frame_delay,ack_delay,timer,time_left;
