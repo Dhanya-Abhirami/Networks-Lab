@@ -21,7 +21,7 @@ int ham_calc(int position,int n,int hamming_encoded[])
 int main()
 {
 	printf("==========HAMMING CODE==========");
-	printf("\n\t\t\tS. DHANYA ABHIRAMI\n\t\t\t16BCE0965\n");
+	printf("\n\t\t\tS. DHANYA ABHIRAMI\n\n");
 	printf("\n\nSENDER SIDE\n");
 	int m,i,r = 0,n,j,k;
 	printf("Enter message length: ");
